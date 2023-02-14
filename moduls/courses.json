@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "nodeJS",
+        "price": "900",
+        "author": "Samar Badriddinov"
+    },
+    {
+        "id": "2",
+        "title": "reactJS",
+        "price": "1200",
+        "author": "Ibrohim Alimuhammedov"
+    },
+    {
+        "id": "a6eefc2f-9f2a-4183-a266-c4042d525f90",
+        "title": "MERN",
+        "price": "900",
+        "author": "Jo'rabek"
+    },
+    {
+        "id": "eee6be16-b8ba-4ddb-96fc-aa0ebcc08f06",
+        "title": "Nock",
+        "price": "500",
+        "author": "Alibek"
+    },
+    {
+        "id": "4e3fea56-813f-41db-a05d-449b1ede717d",
+        "title": "Python",
+        "price": "320",
+        "author": "Ravshan"
+    },
+    {
+        "id": "0837fae7-fe85-47b2-9c34-8ea6b3f6d8bc",
+        "title": "Print Kola",
+        "price": "900",
+        "author": "Azizbek"
+    },
+    {
+        "id": "7be833b1-2f39-40eb-ab53-785de9b42364",
+        "title": "POST Mongo",
+        "price": "250",
+        "author": "Azizbek"
+    },
+    {
+        "id": "f421665e-f9e3-4820-899b-bfc87dd1b318",
+        "title": "qwe",
+        "price": "78",
+        "author": "Azamat Hakimov"
+    }
+]
